@@ -14,4 +14,5 @@ Dive into the magic of cinema with our Movie Recommendation System!! This projec
 ➡ In this project i had use the 𝐜𝐨𝐬𝐢𝐧𝐞 𝐬𝐢𝐦𝐢𝐥𝐚𝐫𝐢𝐭𝐲 to figure out the similarity between the movies according to inputs entered by 𝗨𝘀𝗲𝗿.
 
 Software Used: Python 3.7, Deepnote, Windows 11 OS
+
 Dataset Used: Cancer_Data.csv, Movies.csv
